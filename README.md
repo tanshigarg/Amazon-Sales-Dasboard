@@ -47,7 +47,7 @@ This **Power BI dashboard** provides an in-depth analysis of **Amazon's global s
 
 - 🔗 **[Dataset (if available)](https://github.com/tanshigarg/Amazon-Sales-Dasboard/blob/9cf92ae043afdf342afc56209b9652356d1abc63/global_superstore.xlsx)**
 - 🔗 **[Power BI File](https://github.com/tanshigarg/Amazon-Sales-Dasboard/blob/703c13f7c734d25cec13344e3088d3a923b67d93/amazon%20global%20sales%20dashboard.pbix)**
-- 🖼️ **[Dashboard Screenshot](ADD_LINK_HERE)**
+- 🖼️ ![Amazon Global Sales Dashboard](https://raw.githubusercontent.com/USERNAME/REPO_NAME/main/amazon_dashboard.png)
 
 ## 📢 Conclusion
 
